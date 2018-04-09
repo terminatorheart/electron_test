@@ -1,0 +1,27 @@
+{
+  "name": "electron_test",
+  "version": "0.0.1",
+  "description": "electron first try",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terminatorheart/electron_test.git"
+  },
+  "keywords": [
+    "electron",
+    "test"
+  ],
+  "author": "terminatorheart@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terminatorheart/electron_test/issues"
+  },
+  "homepage": "https://github.com/terminatorheart/electron_test#readme",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
